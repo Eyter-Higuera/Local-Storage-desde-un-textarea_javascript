@@ -47,6 +47,7 @@ function agregarTweet(e){
 }
 
 
+ //evento
  function borrarTweet(e){
 
       e.preventDefault();
